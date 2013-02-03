@@ -2,3 +2,5 @@
 *.orig
 *.rej
 node_modules
+
+.DS_Store
